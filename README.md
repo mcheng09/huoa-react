@@ -1,6 +1,6 @@
 # [HUOA](https://huoa.org/nuuzi/)
 
-Website redesign for Hawaian United Okinawa Association Deploy Test
+Website redesign for Hawaian United Okinawa Association
 
 Visit the WordPress back-end [here](https://github.com/masalcedo88/huoa-wp).
 
